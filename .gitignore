@@ -4,26 +4,35 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PROJETO DO JAVA </title>
-<-- CSS --> 
-<-- FONTES -->
 <link rel="preconnect" href="https://fonts.googleapis.com">   
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap" rel="stylesheet">
-    
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap" rel="stylesheet">    
 <-- ICONS --> 
 <script src="https://kit.fontawesome.com/b7531a7bf1.js" crossorigin="anonymous">defer</script>
     
 </body>
 <header> 
-    <h1> MURILO</h1>
+    <h1> MURILO RIBEIRO </h1>
 
  <nav> 
-  <a href="
+  <a href="https://github.com/Muribeiro007" target="_blank"
+ <i class="fa-solid fa-pencil"></i> 
+ </header>
+<selection class=" about-me>
+<div class= "main-content">
+<article class="text>"
+<h2>👍 Informações sobre mim</h2>
+<p> Ola me chamo Murilo, estudo a area de programação. Sou de São Paulo, procuro me desenvolver na linguagem
+de HTML, faço curso na plataforma da udemy, la posso encontrar bastante apoio.
+</p>
+<article> 
 
-</a>
+    <aside>
 
-</nav>
+    </aside>
+    ,<div>
 
-</header>
-</html>
+    <figure>
+<img src="" alt=""
+
 
